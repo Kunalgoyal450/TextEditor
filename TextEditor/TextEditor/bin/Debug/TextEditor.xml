@@ -1,0 +1,115 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TextEditor
+</name>
+</assembly>
+<members>
+<member name="T:TextEditor.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TextEditor.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TextEditor.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:TextEditor.frmTextEditor.frmTextEditor_Load(System.Object,System.EventArgs)">
+ <summary>
+ As soon as the form loads change the title of form
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditor.frmTextEditor.txtText_TextChanged(System.Object,System.EventArgs)">
+ <summary>
+ When there is changes in textbox set isEdited true and change the title text of form
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditor.frmTextEditor.mnuFileNew_Click(System.Object,System.EventArgs)">
+ <summary>
+ Whenever the new button in file option is accessed
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditor.frmTextEditor.mnuFileOpen_Click(System.Object,System.EventArgs)">
+ <summary>
+ Whenever the open button in file option is accessed
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditor.frmTextEditor.mnuFileSaveAs_Click(System.Object,System.EventArgs)">
+ <summary>
+ Whenever the save As button in file option is accessed
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditor.frmTextEditor.mnuFileSave_Click(System.Object,System.EventArgs)">
+ <summary>
+ Whenever the save button in file option is accessed
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditor.frmTextEditor.mnuFileClose_Click(System.Object,System.EventArgs)">
+ <summary>
+ Whenever the close button in file option is accessed
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditor.frmTextEditor.mnuFileExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ Whenever the exit button in file option is accessed
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditor.frmTextEditor.mnuEditCopy_Click(System.Object,System.EventArgs)">
+ <summary>
+ Whenever the Copy button in Edit option is accessed
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditor.frmTextEditor.mnuEditCut_Click(System.Object,System.EventArgs)">
+ <summary>
+ Whenever the Cut button in Edit option is accessed
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditor.frmTextEditor.mnuEditPaste_Click(System.Object,System.EventArgs)">
+ <summary>
+ Whenever the Paste button in Edit option is accessed takes the content of clipboard and paste it into the text box
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditor.frmTextEditor.mnuHelpAbout_Click(System.Object,System.EventArgs)">
+ <summary>
+ Whenever the About button in Help option is accessed show the information in a message box
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditor.frmTextEditor.ConfirmClose">
+ <summary>
+ Sub procedure to confirm what user wants if the edited status is true
+ </summary>
+</member>
+</members>
+</doc>

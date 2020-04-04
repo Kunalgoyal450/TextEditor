@@ -1,0 +1,11 @@
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\TextEditor\TextEditor\bin\Debug\TextEditor.xml
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\TextEditor\TextEditor\obj\Debug\TextEditor.vbprojAssemblyReference.cache
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\TextEditor\TextEditor\obj\Debug\TextEditor.Resources.resources
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\TextEditor\TextEditor\obj\Debug\TextEditor.vbproj.GenerateResource.cache
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\TextEditor\TextEditor\obj\Debug\TextEditor.xml
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\TextEditor\TextEditor\obj\Debug\TextEditor.frmTextEditor.resources
